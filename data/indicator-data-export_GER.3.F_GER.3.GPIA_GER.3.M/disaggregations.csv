@@ -1,0 +1,8 @@
+code,name,description,glossaryTerms
+EduLvl,Education Level,,
+EduLvl:ISCED3,ISCED 3 - Upper secondary education,,2071
+ParityIndex,Paritiy Indices,,
+ParityIndex:Gender,Adjusted gender parity index (GPIA),,"3203, 3197"
+Sex,Sex,,2183
+Sex:Female,Female,,3197
+Sex:Male,Male,,3197

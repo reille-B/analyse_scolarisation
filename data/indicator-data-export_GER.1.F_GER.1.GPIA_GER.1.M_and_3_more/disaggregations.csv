@@ -1,0 +1,9 @@
+code,name,description,glossaryTerms
+EduLvl,Education Level,,
+EduLvl:ISCED1,ISCED 1 - Primary education,,2066
+EduLvl:ISCED2,ISCED 2 - Lower secondary education,,2067
+ParityIndex,Paritiy Indices,,
+ParityIndex:Gender,Adjusted gender parity index (GPIA),,"3203, 3197"
+Sex,Sex,,2183
+Sex:Female,Female,,3197
+Sex:Male,Male,,3197

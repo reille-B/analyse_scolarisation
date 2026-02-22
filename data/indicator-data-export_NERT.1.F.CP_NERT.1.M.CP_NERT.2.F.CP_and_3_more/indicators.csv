@@ -1,0 +1,7 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+NERT.1.F.CP,"Total net enrolment rate, primary, female (%)",EDUCATION,9/17/2025,September 2025 Data Release,3493,1970,2025,NATIONAL,"Sex:Female, EduLvl:ISCED1",2849
+NERT.1.M.CP,"Total net enrolment rate, primary, male (%)",EDUCATION,9/17/2025,September 2025 Data Release,3492,1970,2025,NATIONAL,"Sex:Male, EduLvl:ISCED1",2849
+NERT.2.F.CP,"Total net enrolment rate, lower secondary, female (%)",EDUCATION,9/17/2025,September 2025 Data Release,2573,1970,2025,NATIONAL,"Sex:Female, EduLvl:ISCED2",2849
+NERT.2.M.CP,"Total net enrolment rate, lower secondary, male (%)",EDUCATION,9/17/2025,September 2025 Data Release,2572,1970,2025,NATIONAL,"Sex:Male, EduLvl:ISCED2",2849
+NERT.3.F.CP,"Total net enrolment rate, upper secondary, female (%)",EDUCATION,9/17/2025,September 2025 Data Release,2948,1970,2025,NATIONAL,"Sex:Female, EduLvl:ISCED3",2849
+NERT.3.M.CP,"Total net enrolment rate, upper secondary, male (%)",EDUCATION,9/17/2025,September 2025 Data Release,2951,1970,2025,NATIONAL,"Sex:Male, EduLvl:ISCED3",2849

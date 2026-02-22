@@ -1,0 +1,7 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+20063,"Enrolment in primary education, female (number)",EDUCATION,9/17/2025,September 2025 Data Release,20274,1970,2025,"REGIONAL, NATIONAL","Sex:Female, EduLvl:ISCED1",2629
+20065,"Enrolment in lower secondary education, female (number)",EDUCATION,9/17/2025,September 2025 Data Release,10998,1980,2025,"REGIONAL, NATIONAL","Sex:Female, EduLvl:ISCED2",2629
+20071,"Enrolment in upper secondary education, female (number)",EDUCATION,9/17/2025,September 2025 Data Release,10672,1980,2025,"REGIONAL, NATIONAL","Sex:Female, EduLvl:ISCED3",2629
+40035,"Enrolment in primary education, male (number)",EDUCATION,9/17/2025,September 2025 Data Release,20264,1970,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:ISCED1",2629
+40038,"Enrolment in lower secondary education, male (number)",EDUCATION,9/17/2025,September 2025 Data Release,10940,1980,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:ISCED2",2629
+40041,"Enrolment in upper secondary education, male (number)",EDUCATION,9/17/2025,September 2025 Data Release,10598,1980,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:ISCED3",2629

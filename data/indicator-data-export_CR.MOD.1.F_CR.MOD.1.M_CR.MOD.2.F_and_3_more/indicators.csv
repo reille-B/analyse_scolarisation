@@ -1,0 +1,7 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+CR.MOD.1.F,"Completion rate, primary education, female (modelled data) (%) ",EDUCATION,9/17/2025,September 2025 Data Release,5740,1990,2024,NATIONAL,"Sex:Female, EduLvl:ISCED1",3201
+CR.MOD.1.M,"Completion rate, primary education, male (modelled data) (%) ",EDUCATION,9/17/2025,September 2025 Data Release,5740,1990,2024,NATIONAL,"Sex:Male, EduLvl:ISCED1",3201
+CR.MOD.2.F,"Completion rate, lower secondary education, female (modelled data) (%) ",EDUCATION,9/17/2025,September 2025 Data Release,5600,1990,2024,NATIONAL,"Sex:Female, EduLvl:ISCED2",3201
+CR.MOD.2.M,"Completion rate, lower secondary education, male (modelled data) (%) ",EDUCATION,9/17/2025,September 2025 Data Release,5600,1990,2024,NATIONAL,"Sex:Male, EduLvl:ISCED2",3201
+CR.MOD.3.F,"Completion rate, upper secondary education, female (modelled data) (%) ",EDUCATION,9/17/2025,September 2025 Data Release,5600,1990,2024,NATIONAL,"Sex:Female, EduLvl:ISCED3",3201
+CR.MOD.3.M,"Completion rate, upper secondary education, male (modelled data) (%) ",EDUCATION,9/17/2025,September 2025 Data Release,5600,1990,2024,NATIONAL,"Sex:Male, EduLvl:ISCED3",3201

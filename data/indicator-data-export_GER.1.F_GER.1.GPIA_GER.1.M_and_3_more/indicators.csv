@@ -1,0 +1,7 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+GER.1.F,"Gross enrolment ratio, primary, female (%)",EDUCATION,9/17/2025,September 2025 Data Release,16877,1970,2025,"REGIONAL, NATIONAL","Sex:Female, EduLvl:ISCED1",2048
+GER.1.GPIA,"Gross enrolment ratio, primary, adjusted gender parity index (GPIA)",EDUCATION,9/17/2025,September 2025 Data Release,16873,1970,2025,"REGIONAL, NATIONAL","EduLvl:ISCED1, ParityIndex:Gender",2048
+GER.1.M,"Gross enrolment ratio, primary, male (%)",EDUCATION,9/17/2025,September 2025 Data Release,16873,1970,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:ISCED1",2048
+GER.2.F,"Gross enrolment ratio, lower secondary, female (%)",EDUCATION,9/17/2025,September 2025 Data Release,10315,1987,2025,"REGIONAL, NATIONAL","Sex:Female, EduLvl:ISCED2",2048
+GER.2.GPIA,"Gross enrolment ratio, lower secondary, adjusted gender parity index (GPIA)",EDUCATION,9/17/2025,September 2025 Data Release,10310,1987,2025,"REGIONAL, NATIONAL","EduLvl:ISCED2, ParityIndex:Gender",2048
+GER.2.M,"Gross enrolment ratio, lower secondary, male (%)",EDUCATION,9/17/2025,September 2025 Data Release,10311,1987,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:ISCED2",2048

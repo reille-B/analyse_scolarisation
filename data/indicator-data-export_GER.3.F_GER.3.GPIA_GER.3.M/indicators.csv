@@ -1,0 +1,4 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+GER.3.F,"Gross enrolment ratio, upper secondary, female (%)",EDUCATION,9/17/2025,September 2025 Data Release,9994,1991,2025,"REGIONAL, NATIONAL","Sex:Female, EduLvl:ISCED3",2048
+GER.3.GPIA,"Gross enrolment ratio, upper secondary, adjusted gender parity index (GPI)",EDUCATION,9/17/2025,September 2025 Data Release,9990,1991,2025,"REGIONAL, NATIONAL","EduLvl:ISCED3, ParityIndex:Gender",2048
+GER.3.M,"Gross enrolment ratio, upper secondary, male (%)",EDUCATION,9/17/2025,September 2025 Data Release,9990,1991,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:ISCED3",2048

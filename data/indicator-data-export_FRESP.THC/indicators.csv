@@ -1,0 +1,2 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+FRESP.THC,Researchers (HC) - % Female,SCIENCE_TECHNOLOGY_INNOVATION,11/01/2025,November 2025 Data Release,1967,1996,2023,"REGIONAL, NATIONAL",Sex:Female,"2461, 2839, 2454, 2465"

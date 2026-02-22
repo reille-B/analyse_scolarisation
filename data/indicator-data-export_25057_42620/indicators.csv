@@ -1,0 +1,3 @@
+indicatorId,name,theme,lastDataUpdate,lastDataUpdateDescription,dataAvailability.totalRecordCount,dataAvailability.timeLine.min,dataAvailability.timeLine.max,dataAvailability.geoUnits.types,disaggregations,glossaryTerms
+25057,"Enrolment in tertiary education, all programmes, female (number)",EDUCATION,9/17/2025,September 2025 Data Release,17249,1970,2025,"NATIONAL, REGIONAL","Sex:Female, EduLvl:Tertiary",2629
+42620,"Enrolment in tertiary education, all programmes, male (number)",EDUCATION,9/17/2025,September 2025 Data Release,17223,1970,2025,"REGIONAL, NATIONAL","Sex:Male, EduLvl:Tertiary",2629

@@ -1,0 +1,8 @@
+code,name,description,glossaryTerms
+EduLvl,Education Level,,
+EduLvl:ISCED1,ISCED 1 - Primary education,,2066
+EduLvl:ISCED2,ISCED 2 - Lower secondary education,,2067
+EduLvl:ISCED3,ISCED 3 - Upper secondary education,,2071
+Sex,Sex,,2183
+Sex:Female,Female,,3197
+Sex:Male,Male,,3197
